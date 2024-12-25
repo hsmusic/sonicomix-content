@@ -2,13 +2,71 @@ Character: Amy Rose
 Short Name: Amy
 Color: '#ff6a9d'
 ---
-Character: Balkiry (Badnick)
-Short Name: Balkiry
+Character: Babylon Rogues
+Grouped Characters:
+- Jet the Hawk
+- Wave the Swallow
+- Storm the Albatross
+---
+Character: Badniks
+Grouped Characters:
+- Balkiry
+- Blaster
+- Egg Golem
+- Egg Hammer
+- Egg Pawn
+---
+Character: Balkiry
 Color: '#fd4f6c'
+---
+Character: Blaster
+Color: '#d75d4e'
 ---
 Character: Blaze the Cat
 Short Name: Blaze
 Color: '#ac7eff'
+---
+Character: Chao
+---
+Character: Claire Voyance
+Short Name: Claire
+Color: '#c1d7a1'
+---
+Character: Duo the Cat
+Short Name: Duo
+Color: '#6d76d1'
+---
+Character: Diamond Cutters (1st gen)
+Grouped Characters:
+- Smithy the Lion
+- Slinger the Ocelot
+- Claire Voyance
+- Whisper the Wolf
+- Mimic the Octopus
+---
+Character: Diamond Cutters (2nd gen)
+Grouped Characters:
+- Lanolin the Sheep
+- Tangle the Lemur
+- Whisper the Wolf
+- Duo the Cat
+---
+Character: Doctor Eggman
+Short Name: Eggman
+Color: '#ea2e2d'
+---
+Character: Egg Golem
+Color: '#f6ce71'
+---
+Character: Egg Hammer
+Color: '#b375af'
+---
+Character: Egg Pawn
+Color: '#fd5c44'
+---
+Character: Gala the Hound
+Short Name: Gala
+Color: '#43a0cf'
 ---
 Character: Jet the Hawk
 Short Name: Jet
@@ -18,17 +76,68 @@ Character: Jewel the Beetle
 Short Name: Jewel
 Color: '#f095b0'
 ---
+Character: Lanolin the Sheep
+Short Name: Lanolin
+Color: '#be7d48'
+---
+Character: Lost Pyramid Residents
+Color: '#f39663'
+---
 Character: Miles "Tails" Prower
 Short Name: Tails
 Color: '#fd8852'
+---
+Character: Mimic the Octopus
+Short Name: Mimic
+Color: '#918fad'
+Grouped Characters:
+- Duo the Cat
+---
+Character: Neo Metal Sonic
+Color: '#8ab6ec'
+---
+Character: Resistance
+Grouped Characters:
+- Restoration
+---
+Character: Restoration
+Grouped Characters:
+- Jewel the Beetle
+- Diamond Cutters (2nd gen)
+---
+Character: Ron (Spiral Hill)
+Short Name: Ron
+Color: '#5e79c6'
+---
+Character: Rough the Skunk
+Short Name: Rough
+Color: '#69aacd'
+---
+Character: Rouge the Bat
+Short Name: Rouge
+Color: '#c241e2'
+---
+Character: Shadow Android
+Color: '#d5842f'
 ---
 Character: Silver the Hedgehog
 Short Name: Silver
 Color: '#e5e5e5'
 ---
+Character: Slinger the Ocelot
+Short Name: Slinger
+Color: '#bed4d8'
+---
+Character: Smithy the Lion
+Short Name: Smithy
+Color: '#c0a2a7'
+---
 Character: Sonic the Hedgehog
 Short Name: Sonic
 Color: '#6087fb'
+---
+Character: Sonic Fan Club
+Color: '#f6f151'
 ---
 Character: Storm the Albatross
 Short Name: Storm
@@ -37,6 +146,10 @@ Color: '#bfbfbf'
 Character: Tangle the Lemur
 Short Name: Tangle
 Color: '#cdbfff'
+---
+Character: Tumble the Skunk
+Short Name: Tumble
+Color: '#e0cfaf'
 ---
 Character: Wave the Swallow
 Short Name: Wave
