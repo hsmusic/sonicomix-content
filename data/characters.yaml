@@ -12,7 +12,7 @@ Character: Badniks
 Grouped Characters:
 - Balkiry
 - Blaster
-- Egg Golem
+- Egg-Golem
 - Egg Hammer
 - Egg Pawn
 ---
@@ -55,8 +55,8 @@ Character: Doctor Eggman
 Short Name: Eggman
 Color: '#ea2e2d'
 ---
-Character: Egg Golem
-Color: '#f6ce71'
+Character: Egg-Golem
+Color: '#e4b16c'
 ---
 Character: Egg Hammer
 Color: '#b375af'
@@ -114,11 +114,11 @@ Color: '#5e79c6'
 ---
 Character: Rough the Skunk
 Short Name: Rough
-Color: '#69aacd'
+Color: '#6aa1d4'
 ---
 Character: Rouge the Bat
 Short Name: Rouge
-Color: '#c241e2'
+Color: '#c475e7'
 ---
 Character: Shadow Android
 Color: '#d5842f'
@@ -152,7 +152,7 @@ Color: '#cdbfff'
 ---
 Character: Tumble the Skunk
 Short Name: Tumble
-Color: '#e0cfaf'
+Color: '#ead4bb'
 ---
 Character: Wave the Swallow
 Short Name: Wave
