@@ -52,7 +52,7 @@ Grouped Characters:
 - Duo the Cat
 ---
 Character: Doctor Eggman
-Short Name: Eggman
+Short Name: Dr. Eggman
 Color: '#ea2e2d'
 ---
 Character: Egg-Golem
@@ -75,6 +75,10 @@ Color: '#6adb5d'
 Character: Jewel the Beetle
 Short Name: Jewel
 Color: '#f095b0'
+---
+Character: Knuckles the Echidna
+Short Name: Knuckles
+Color: '#e61414'
 ---
 Character: Lanolin the Sheep
 Short Name: Lanolin
@@ -153,6 +157,8 @@ Color: '#cdbfff'
 Character: Tumble the Skunk
 Short Name: Tumble
 Color: '#ead4bb'
+---
+Character: Vista View Locals
 ---
 Character: Wave the Swallow
 Short Name: Wave
